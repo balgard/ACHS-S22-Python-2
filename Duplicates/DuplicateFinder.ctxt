@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=DuplicateFinder
-comment1.params=value\ test
-comment1.target=boolean\ inArray(int,\ int[])
-comment2.params=a\ b
-comment2.target=int[]\ findDuplicates(int[],\ int[])
-comment3.params=args
-comment3.target=void\ main(java.lang.String[])
-numComments=4
